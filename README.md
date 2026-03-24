@@ -1,3 +1,6 @@
+> [!NOTE]
+> Please follow the instructions in `TEMPLATE.md` to understand what to put where. You can delete this line once you have organized your repo.
+
 # Project title
 
 Add tags if you want
